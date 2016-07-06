@@ -236,7 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {195003828},--Sudo users
+    sudo_users = {195003828,99628088},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[sparta bot 2.3
